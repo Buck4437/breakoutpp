@@ -1,0 +1,25 @@
+Notes                                       (4/4)
+-------------------------------------------------
+Thank you for taking time to read this section!
+We hope you enjoy the game.
+
+Remember, in the game, your goal is to destroy
+blocks and gain points. To achieve this, you'll
+need to make fast reponses and good decisions on
+using the special attack skill.
+
+If you achieve a top 10 score (on your local
+device), you will get into the leaderboard!
+
+To prevent weird graphic display, you are advised
+not to resize the terminal during the gameplay.
+
+Good luck, and have fun!
+
+
+
+
+
+
+
+<- Back                         Press ESC to exit

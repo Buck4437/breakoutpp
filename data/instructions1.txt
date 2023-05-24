@@ -1,0 +1,25 @@
+Controls                                    (2/4)
+-------------------------------------------------
+Main menu controls:
+
+Q          :  Quit game (in main menu)
+Ctrl+C     :  Quit game (anywhere)
+Enter      :  Select
+Esc        :  Exit
+Arrow Keys :  Navigate the menu
+
+In-game controls:
+
+Space      :  Launch the ball
+P          :  Pause the game
+C          :  Launch missiles
+Left/Up    :  Move the paddle left
+Right/Down :  Move the paddle right
+
+
+
+
+
+
+
+<- Prev                                   Next ->

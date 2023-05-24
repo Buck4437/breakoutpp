@@ -1,0 +1,25 @@
+Power-Ups                                   (3/4)
+-------------------------------------------------
+Buffs are displayed in green color:
+
+ <-> :  Paddle Expansion, max width 23 units
+ o<< :  Slow Ball, with an effect time limit
+ ooo :  Multi-Ball, spawn 2 more balls
+ x 2 :  Score Multiplier x2, stacks additively
+ ### :  Get a shield at bottom of screen
+        Shield can be stacked 3 times
+        Level 1 Shield : '-----'
+        Level 2 Shield : '====='
+        Level 3 Shield : '#####'
+ >=> :  Missile +1 (Press C to fire)
+
+Nerfs are displayed in red color:
+
+ >-< :  Paddle Shrinking, min width 7 units
+ o>> :  Fast Ball, with an effect time limit
+
+
+
+
+
+<- Prev                                   Next ->

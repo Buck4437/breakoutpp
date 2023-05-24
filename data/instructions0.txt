@@ -1,0 +1,25 @@
+Introduction                                (1/4)
+-------------------------------------------------
+Welcome to Breakout++!
+
+In this classic arcade-inspired game, your goal
+is to break all bricks on the screen with
+a bouncing ball and a paddle. Use arrow keys to
+move your paddle and keep the ball in play.
+
+If you miss the ball and it goes off the bottom
+of the screen, you will lose a life.
+You have three lives to start with, but you can
+earn more by reaching certain scores.
+
+There are also power-ups hidden in some of the
+bricks that can give you extra abilities. Some
+power-ups can bring nerfs and make the game more
+difficult! Make sure to watch out for them.
+
+The game has a total of 4 levels. New levels are
+unlocked when the previous level is cleared.
+The game ends when you've beaten all levels or
+lost all of your lives.
+
+Good luck!                                Next ->

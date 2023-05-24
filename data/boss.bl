@@ -1,0 +1,39 @@
+cst lvl
+-1.0 0.0 1.0 1.0
+1.0 1.0
+1 15
+8
+
+cst lvl
+-14.0 0.0 -10.0 4.0
+5.0 5.0
+2 2
+16
+
+cst lvl
+6.0 0.0 10.0 4.0
+5.0 5.0
+2 2
+16
+
+cst wal
+-2.0 0.0 -1.0 15.0
+0
+
+cst wal
+1.0 0.0 2.0 15.0
+0
+
+
+
+loots
+    freq 1
+    offset 2
+
+    msl 1
+fin
+
+pity
+    threshold 30
+    msl 1
+fin
